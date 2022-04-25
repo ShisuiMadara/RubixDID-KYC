@@ -1,0 +1,26 @@
+﻿@page
+@model RegistrationModel
+@{
+    ViewData["Title"] = "Registration";
+}
+
+
+    <h1>User Registration</h1>
+    <br>
+    <form method = "post" >
+        <div class="form-group">
+          <label for="Name">Name</label>
+          <input type="name" placeholder="Enter name" name="name">
+        </div>
+        <div class="form-group"> 
+            <label class="control-label" for="date">Date</label>
+            <input class="form-control" id="date" name="date" placeholder="MM/DD/YYY" type="text"/>
+        </div>
+        <div class = "form-group">
+            <label class = "control-label">Adhaar Number</label>
+            <input class="form-control" name="Aadhaar Number" placeholder="Your unique Aadhaar number">
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+      </form>
+
+
