@@ -20,7 +20,6 @@ namespace RubixWeb.Pages
 
         public void OnGet()
         {
-
         }
         public IActionResult OnPost()
         {
