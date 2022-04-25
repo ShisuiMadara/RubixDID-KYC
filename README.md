@@ -30,7 +30,7 @@ A decentralised Know Your Customer (KYC) service based on Rubix blockchain Decen
 <br>
 
 <ol>
-  <li>Set up your IPFS server and initialise using ```ipfs daemon```</li>
+  <li>Set up your IPFS server and initialise using <em>ipfs daemon</em> command in terminal </li>
   <li>Set up and run the Rubix SDK https://learn.rubix.net/did/ </li>
   <li>Install and run ASP.NET dependiencies along with java and go langugage</li>
   <li>Install Maven and the Rubix dependencies. </li>
