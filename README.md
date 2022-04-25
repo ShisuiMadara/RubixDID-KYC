@@ -1,6 +1,6 @@
 # RubixDID-KYC
 <p>
-A decentralised Know Your Customer (KYC) service based on Rubix blockchain Decentralised Identity (DID) based on NLSS protocol. The service is hosted on Interplanetary File System (IPFS). 
+A decentralised Know Your Customer (KYC) service based on Rubix blockchain Decentralised Identity (DID) based on NLSS protocol and self sovereign identity. The service is hosted on Interplanetary File System (IPFS).
 </p>
 
 <br>
